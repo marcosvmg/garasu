@@ -192,14 +192,14 @@
 
     <div class="container ">
       <h2 class="text-center mb-5 fs-1" style="color: #292F60" id="contact-us">Nos Contate!</h2>
-      <form class="row g-3 rounded shadow-lg p-4" style="background:#fffafa;">
-        <div class="col-md-6">
+      <form class="row g-3 rounded shadow-lg p-4" style="background:#fffafa;" action="https://formsubmit.co/alinemayumin@gmail.com" method="POST" enctype="text/plain">
+        <div class="col-md-6"> 
           <label for="inputEmail4" class="form-label">Nome</label>
-          <input type="email" class="form-control shadow-sm"  id="nome" placeholder="Seu nome">
+          <input type="name" required class="form-control shadow-sm"  id="nome" placeholder="Seu nome">
         </div>
         <div class="col-md-6">
           <label for="inputPassword4" class="form-label">E-mail</label>
-          <input type="password" class="form-control shadow-sm" id="e-mail" placeholder="Digite seu melhor E-mail">
+          <input type="E-mail" required class="form-control shadow-sm" id="e-mail" placeholder="Digite seu melhor E-mail">
         </div>
         <div class="col-12">
           <label for="inputAddress" class="form-label">Empresa</label>
@@ -210,7 +210,7 @@
           <label for="inputCity" class="form-label">Dúvida/Orçamento</label>
           <textarea name="" class="form-control shadow-sm" id="orçamento" cols="30" rows="1" placeholder="O que podemos fazer para ajuda-lo?"></textarea>
         </div>
-        <div class="col-md-4 ">
+         <div class="col-md-4 ">
           <label for="inputState" class="form-label ">Como vamos oferecer serviços?</label>
           <select id="oferecer" class="form-select shadow-sm">
             <option selected>Escolha</option>
@@ -223,6 +223,8 @@
           <label for="inputZip" class="form-label">Localidade</label>
           <textarea name="" class="form-control shadow-sm" id="local" cols="30" rows="1" placeholder="Onde fica sua empresa?"></textarea>
         </div>
+
+        <input type="hidden" name="_next" value="http://127.0.0.1:5500/index.html/Obrigado.html"/>
 
         <div class="col-12">
           <button type="submit" class="btn btn-light shadow">Sign in</button>

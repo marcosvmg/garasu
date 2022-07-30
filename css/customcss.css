@@ -1,0 +1,42 @@
+::selection {
+    background: #292f6017;
+    color: #292F60;
+}
+
+* {
+    scroll-behavior: smooth;
+    
+}
+
+#particles-js {
+    display: flex;
+    float: none;
+
+}
+
+#img-logo {
+    transition: 0.6s;
+}
+
+.insetok {
+    -webkit-box-shadow: inset 0px 0px 20px -1px rgba(0,0,0,0.55); 
+box-shadow: inset 0px 0px 20px -1px rgba(0,0,0,0.55);
+}
+
+.picture {
+    background: url(/assets/bird-logo-provisory.svg) fixed center no-repeat;
+    background-size: contain;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(5, 5, 5, 0.397);
+    
+}
+
+input {
+    accent-color: #292F60;
+    caret-color: #292F60;
+}
+
+::-webkit-scrollbar {
+   display: none;
+}

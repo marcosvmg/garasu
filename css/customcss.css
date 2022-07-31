@@ -8,11 +8,7 @@
     
 }
 
-#particles-js {
-    display: flex;
-    float: none;
 
-}
 
 #img-logo {
     transition: 0.6s;
@@ -40,3 +36,21 @@ input {
 ::-webkit-scrollbar {
    display: none;
 }
+
+header {
+    list-style-type: none;
+    user-select: none;
+}
+
+li {
+    transition-property: font-size;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+
+li:hover {
+    font-size: 22px;
+}
+
+
+

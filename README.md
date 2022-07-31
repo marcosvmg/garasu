@@ -12,8 +12,8 @@
 
 (feel free to criticize so we improve my project!)
 
-Marcos Martins: Front-end developer ✢ Spokesperson ✢ Scrum Master
-Aline Mayumi: Documenter ✢ Front-end developer assistant ✢ scrum
-Robson Junior: Documenter ✢ Front-end developer assistant ✢ scrum
-Victor Bitar: Documenter assistant
-Gustavo Lima: Documenter assistant
+Marcos Martins: Front-end developer ✢ Spokesperson ✢ Scrum Master  
+Aline Mayumi: Documenter ✢ Front-end developer assistant ✢ scrum  
+Robson Junior: Documenter ✢ Front-end developer assistant ✢ scrum  
+Victor Bitar: Documenter assistant  
+Gustavo Lima: Documenter assistant  

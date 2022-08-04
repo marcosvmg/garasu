@@ -195,29 +195,29 @@
     </div>
     </div>
 
-    <div class="container " style="margin-top: 30em;" >
-      <h2 class="text-center mb-5 fs-1" style="color: #292F60" id="contact-us" data-aos="zoom-in" data-aos-duration="1250">Nos Contate!</h2>
-      <form class="row g-3 rounded shadow-lg p-4" style="background:#fffafa;" data-aos="zoom-in" data-aos-duration="1500">
+    <div class="container ">
+      <h2 class="text-center mb-5 fs-1" style="color: #292F60" id="contact-us">Nos Contate!</h2>
+      <form action="https://formsubmit.co/mayuminakama13@gmail.com" method="POST" class="row g-3 rounded shadow-lg p-4" style="background:#fffafa;">
         <div class="col-md-6">
-          <label for="inputEmail4" class="form-label">Nome</label>
-          <input type="email" class="form-control shadow-sm"  id="nome" placeholder="Seu nome">
+          <label class="form-label">Nome</label>
+          <input type="text" name="Nome" required class="form-control shadow-sm"  id="nome" placeholder="Seu nome">
         </div>
         <div class="col-md-6">
-          <label for="inputPassword4" class="form-label">E-mail</label>
-          <input type="password" class="form-control shadow-sm" id="e-mail" placeholder="Digite seu melhor E-mail">
+          <label class="form-label">E-mail</label>
+          <input type="e-mail" name="E-mail" required class="form-control shadow-sm" id="e-mail" placeholder="Digite seu melhor E-mail">
         </div>
         <div class="col-12">
-          <label for="inputAddress" class="form-label">Empresa</label>
-          <input type="text" class="form-control shadow-sm" id="empresa" placeholder="Sua Empresa/Projeto/Indíviduo">
+          <label class="form-label">Empresa</label>
+          <input type="text" name="Empresa" class="form-control shadow-sm" id="empresa" placeholder="Sua Empresa/Projeto/Indíviduo">
         </div>
 
         <div class="col-md-6">
-          <label for="inputCity" class="form-label">Dúvida/Orçamento</label>
-          <textarea name="" class="form-control shadow-sm" id="orçamento" cols="30" rows="1" placeholder="O que podemos fazer para ajuda-lo?"></textarea>
+          <label class="form-label">Dúvida/Orçamento</label>
+          <textarea name="Dúvida/Orçamento" required class="form-control shadow-sm" id="orçamento" cols="30" rows="1" placeholder="O que podemos fazer para ajuda-lo?"></textarea>
         </div>
         <div class="col-md-4 ">
-          <label for="inputState" class="form-label ">Como vamos oferecer serviços?</label>
-          <select id="oferecer" class="form-select shadow-sm">
+          <label class="form-label ">Como vamos oferecer serviços?</label>
+          <select name="Tipo de Serviço" id="oferecer" class="form-select shadow-sm">
             <option selected>Escolha</option>
             <option>Remoto</option>
             <option>Físico</option>
@@ -225,14 +225,18 @@
           </select>
         </div>
         <div class="col-md-2 ">
-          <label for="inputZip" class="form-label">Localidade</label>
-          <textarea name="" class="form-control shadow-sm" id="local" cols="30" rows="1" placeholder="Onde fica sua empresa?"></textarea>
+          <label class="form-label">Localidade</label>
+          <textarea name="Localidade" class="form-control shadow-sm" id="local" cols="30" rows="1" placeholder="Onde fica sua empresa?"></textarea>
         </div>
 
         <div class="col-12">
           <button type="submit" class="btn btn-light shadow">Sign in</button>
         </div>
       </form>
+    </div>
+
+    <div class="container mt-5 d-flex justify-content-center">
+      <a href="#home"><button type="button" class="btn btn-light btn-lg shadow" style="color: #292F60;">Voltar ao topo</button></a>
     </div>
 
     <div class="container mt-5 d-flex justify-content-center" data-aos="zoom-in" data-aos-duration="1250">

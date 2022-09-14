@@ -21,6 +21,6 @@ Gustavo Lima: Documenter assistant
 
 Links:
 
-![Instagram](https://instagram.com/equipegarasup)  
-![Quiz](#)  
-![Website](https://vossomarcos.github.io/garasu)
+[Instagram](https://instagram.com/equipegarasup)  
+[Quiz](#)  
+[Website](https://vossomarcos.github.io/garasu)

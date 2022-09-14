@@ -19,8 +19,8 @@ Victor Bitar: Documenter assistant
 Gustavo Lima: Documenter assistant  
 
 
-Informations:
+Links:
 
-![Instagram](assets/logos/instagram-svgrepo-com.svg)  
-![Quiz](assets/logos/test-svgrepo-com.svg)  
-![Website](assets/logos/web-svgrepo-com.svg)
+![Instagram](instagram.com/equipegarasup)  
+![Quiz](#)  
+![Website](vossomarcos.github.io/garasu)

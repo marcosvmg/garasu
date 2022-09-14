@@ -17,3 +17,10 @@ Aline Mayumi: Documenter ✢ Front-end developer assistant ✢ scrum
 Robson Junior: Documenter ✢ Front-end developer assistant ✢ scrum  
 Victor Bitar: Documenter assistant  
 Gustavo Lima: Documenter assistant  
+
+
+Informations:
+
+![Instagram](assets/logos/instagram-svgrepo-com.svg)  
+![Quiz](assets/logos/test-svgrepo-com.svg)  
+![Website](assets/logos/web-svgrepo-com.svg)
